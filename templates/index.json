@@ -1,1 +1,445 @@
-{"sections":{"fd0389a8-9469-4792-9097-e66f74d676c5":{"type":"slideshow","blocks":{"template--14358693871712__fd0389a8-9469-4792-9097-e66f74d676c5-16892200505fb2adf5-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/MoonmistIcecream.png","heading":"Moon Mist Meets Lobster","heading_size":"h1","subheading":"Nova Scotia's iconic and exclusive Moon Mist ice cream flavour can now be found in a candle, which blends the flavors of grape, banana, and bubblegum for a unique intergalactic swirl. Indulge in a bit of nostalgia before it's gone. ","button_label":"Get It Now","link":"shopify:\/\/products\/moon-mist-lobster-soy-wax-candle","button_style_secondary":false,"box_align":"middle-left","show_text_box":true,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"left"}}},"block_order":["template--14358693871712__fd0389a8-9469-4792-9097-e66f74d676c5-16892200505fb2adf5-0"],"custom_css":[".button {text-transform: uppercase; width: 100%;}",".banner__buttons {width: 100%;}"],"settings":{"layout":"full_bleed","slide_height":"large","slider_visual":"dots","auto_rotate":true,"change_slides_speed":7,"image_behavior":"ambient","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"0a2c99ca-4afe-46b2-ab0c-1f9f02206907":{"type":"multicolumn","blocks":{"template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0":{"type":"column","settings":{"title":"","text":"<h2><strong>Natural soy wax with 100% cotton wick.<\/strong><\/h2>","link_label":"","link":""}},"template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-1":{"type":"column","settings":{"title":"","text":"<h2><strong>Clean & long lasting burn.<\/strong><\/h2>","link_label":"","link":""}},"template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-2":{"type":"column","settings":{"title":"","text":"<h2><strong>Premium sourced  fragrance oils.<\/strong><\/h2>","link_label":"","link":""}}},"block_order":["template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0","template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-1","template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-2"],"settings":{"title":"Premium Handcrafted Candles","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-2","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b":{"type":"image-with-text","blocks":{"template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0":{"type":"heading","settings":{"heading":"Handcrafted with Love","heading_size":"h1"}},"template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1":{"type":"text","settings":{"text":"<p>At Burning Flame Candle Co., we are passionate about crafting exquisite candles that add a touch of warmth and serenity to your life. Each candle is meticulously handcrafted by our founder and candle maker, Lauren, who pours her heart and soul into every creation.<\/p>","text_style":"body"}},"template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2":{"type":"button","settings":{"button_label":"Read more about Burning Flame","button_link":""}}},"block_order":["template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0","template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1","template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2"],"settings":{"image":"shopify:\/\/shop_images\/E_-YYgJXMAUJnZ9-1.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"af90a5a0-f00c-4768-9bf9-d6902a9abcae":{"type":"multicolumn","blocks":{"template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-0":{"type":"column","settings":{"title":"Eco-Conscious Creations","text":"<p>Our candles are thoughtfully made using 100% natural soy wax, promoting a cleaner and more sustainable environment.<\/p>","link_label":"","link":""}},"template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1":{"type":"column","settings":{"title":"Captivating Fragrances","text":"<p> Immerse your senses in a diverse range of enchanting scents, carefully curated to evoke emotions and create lasting memories.<\/p>","link_label":"","link":""}},"template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-2":{"type":"column","settings":{"title":"Artisanal Elegance","text":"<p>Each candle is a work of art, uniquely designed and hand-poured by our skilled artisans, adding a touch of elegance to any space.<\/p>","link_label":"","link":""}},"13ee1a73-ce9d-44d8-a69f-61bef54b5d6f":{"type":"column","settings":{"title":"Enhance Your Well-being","text":"<p>Indulge in the therapeutic benefits of our candles, as they create a soothing and calming ambiance, promoting relaxation and tranquility.<\/p>","link_label":"","link":""}}},"block_order":["template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-0","template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1","template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-2","13ee1a73-ce9d-44d8-a69f-61bef54b5d6f"],"settings":{"title":"Enlightened Craftsmanship","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"accent-2","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46":{"type":"collection-list","disabled":true,"blocks":{"template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-0":{"type":"featured_collection","settings":{"collection":"fall-collection-2022"}},"template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-1":{"type":"featured_collection","settings":{"collection":"fall-winter-2020"}},"template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-2":{"type":"featured_collection","settings":{"collection":"halloween-collection"}}},"block_order":["template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-0","template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-1","template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-2"],"settings":{"title":"Collections","heading_size":"h1","image_ratio":"square","columns_desktop":3,"color_scheme":"","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"featured_collection":{"type":"featured-collection","settings":{"title":"Featured Creations","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":8,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}},"36cff32c-8b3f-4dac-9972-5762e30cdd06":{"type":"image-banner","blocks":{"template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-0":{"type":"heading","settings":{"heading":"Wholesale Inquiries","heading_size":"h1"}},"template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-1":{"type":"text","settings":{"text":"Our products are perfect for weddings, corporate and client gifts, homes, promotional items, celebrations, party favours, memorial services, fundraising, employee thank yous, holiday gifts, Realtors + closing gifts, and more.","text_style":"body"}},"template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-2":{"type":"buttons","settings":{"button_label_1":"Explore Wholesale","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-0","template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-1","template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-2"],"settings":{"image":"shopify:\/\/shop_images\/small-business-interior.jpg","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"edef514a-850a-4d72-acff-36a70712e036":{"type":"featured-blog","disabled":true,"settings":{"heading":"Check out our <strong>Ambient Insights<\/strong> Blog","heading_size":"h1","blog":"","post_limit":3,"columns_desktop":3,"color_scheme":"","show_image":true,"show_date":true,"show_author":false,"show_view_all":true,"padding_top":36,"padding_bottom":36}},"3bd4236e-8832-4f6c-8053-7418e50cc96e":{"type":"image-with-text","blocks":{"template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-0":{"type":"heading","settings":{"heading":"Visit our flagship shop!","heading_size":"h1"}},"template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-1":{"type":"text","settings":{"text":"<h2><strong>Inside the Coffee Pro<\/strong><\/h2><h2>961 Bedford Highway<br\/>Bedford, Nova Scotia<\/h2><h2>Mon - Fri, 9:30am - 5:30pm<br\/>Saturday, 10am - 5pm<br\/>Sunday, CLOSED<\/h2>","text_style":"body"}},"template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-2":{"type":"button","settings":{"button_label":"Get Directions","button_link":"https:\/\/www.google.com\/maps\/dir\/\/961+Bedford+Hwy,+Bedford,+NS+B4A+1A9\/@44.716013,-63.7463883,12z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x4b5989f400b5a98d:0x54b785fa12ecc67d!2m2!1d-63.6763485!2d44.7160344?entry=ttu"}}},"block_order":["template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-0","template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-1","template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-2"],"settings":{"image":"shopify:\/\/shop_images\/Screenshot_2022-11-13_at_13-29-42_coffee_pro_bedford_-_Google_Search.png","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"cdc39963-a163-4ae8-8baa-b91be005a266":{"type":"image-banner","blocks":{"template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-0":{"type":"heading","settings":{"heading":"Candles made to be burned.","heading_size":"h1"}},"template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-1":{"type":"text","settings":{"text":"We love working with 100% natural soy wax! Burning Flame candles are all hand-poured in Halifax, Nova Scotia. Soy candles are manufactured from soybeans. A natural, renewable source grown in many regions by local farmers. Soy candles are sought after because they burn clean and last much longer than petroleum based paraffin wax candles you buy at the grocery store.Our goal is to bring you closer to the memories and fragrances you love without the toxic ingredients. Candles made to be burned. STAY LIT.","text_style":"body"}},"template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-2":{"type":"buttons","settings":{"button_label_1":"Shop our creations","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-0","template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-1","template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-2"],"settings":{"image":"shopify:\/\/shop_images\/Screenshot_2022-11-13_at_14-01-11_EASTCOAST_LIFESTYLE_on_Twitter.png","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"accent-2","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}}},"order":["fd0389a8-9469-4792-9097-e66f74d676c5","0a2c99ca-4afe-46b2-ab0c-1f9f02206907","4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b","af90a5a0-f00c-4768-9bf9-d6902a9abcae","aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46","featured_collection","36cff32c-8b3f-4dac-9972-5762e30cdd06","edef514a-850a-4d72-acff-36a70712e036","3bd4236e-8832-4f6c-8053-7418e50cc96e","cdc39963-a163-4ae8-8baa-b91be005a266"]}
+{
+  "sections": {
+    "fd0389a8-9469-4792-9097-e66f74d676c5": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14358693871712__fd0389a8-9469-4792-9097-e66f74d676c5-16892200505fb2adf5-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MoonmistIcecream.png",
+            "heading": "Moon Mist Meets Lobster",
+            "heading_size": "h1",
+            "subheading": "Nova Scotia's iconic and exclusive Moon Mist ice cream flavour can now be found in a candle, which blends the flavors of grape, banana, and bubblegum for a unique intergalactic swirl. Indulge in a bit of nostalgia before it's gone. ",
+            "button_label": "Get It Now",
+            "link": "shopify:\/\/products\/moon-mist-lobster-soy-wax-candle",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-432b7b3e-4565-4ef6-9490-3b0eda653b6a",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14358693871712__fd0389a8-9469-4792-9097-e66f74d676c5-16892200505fb2adf5-0"
+      ],
+      "custom_css": [
+        ".button {text-transform: uppercase; width: 100%;}",
+        ".banner__buttons {width: 100%;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 7,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2><strong>Natural soy wax with 100% cotton wick.<\/strong><\/h2>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2><strong>Clean & long lasting burn.<\/strong><\/h2>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2><strong>Premium sourced  fragrance oils.<\/strong><\/h2>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0",
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-1",
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-2"
+      ],
+      "settings": {
+        "title": "Premium Handcrafted Candles",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Handcrafted with Love",
+            "heading_size": "h1"
+          }
+        },
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Burning Flame Candle Co., we are passionate about crafting exquisite candles that add a touch of warmth and serenity to your life. Each candle is meticulously handcrafted by our founder and candle maker, Lauren, who pours her heart and soul into every creation.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read more about Burning Flame",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0",
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1",
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/E_-YYgJXMAUJnZ9-1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "af90a5a0-f00c-4768-9bf9-d6902a9abcae": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-0": {
+          "type": "column",
+          "settings": {
+            "title": "Eco-Conscious Creations",
+            "text": "<p>Our candles are thoughtfully made using 100% natural soy wax, promoting a cleaner and more sustainable environment.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1": {
+          "type": "column",
+          "settings": {
+            "title": "Captivating Fragrances",
+            "text": "<p> Immerse your senses in a diverse range of enchanting scents, carefully curated to evoke emotions and create lasting memories.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-2": {
+          "type": "column",
+          "settings": {
+            "title": "Artisanal Elegance",
+            "text": "<p>Each candle is a work of art, uniquely designed and hand-poured by our skilled artisans, adding a touch of elegance to any space.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "13ee1a73-ce9d-44d8-a69f-61bef54b5d6f": {
+          "type": "column",
+          "settings": {
+            "title": "Enhance Your Well-being",
+            "text": "<p>Indulge in the therapeutic benefits of our candles, as they create a soothing and calming ambiance, promoting relaxation and tranquility.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-0",
+        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1",
+        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-2",
+        "13ee1a73-ce9d-44d8-a69f-61bef54b5d6f"
+      ],
+      "settings": {
+        "title": "Enlightened Craftsmanship",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fall-collection-2022"
+          }
+        },
+        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fall-winter-2020"
+          }
+        },
+        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "halloween-collection"
+          }
+        }
+      },
+      "block_order": [
+        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-0",
+        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-1",
+        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Creations",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "36cff32c-8b3f-4dac-9972-5762e30cdd06": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale Inquiries",
+            "heading_size": "h1"
+          }
+        },
+        "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-1": {
+          "type": "text",
+          "settings": {
+            "text": "Our products are perfect for weddings, corporate and client gifts, homes, promotional items, celebrations, party favours, memorial services, fundraising, employee thank yous, holiday gifts, Realtors + closing gifts, and more.",
+            "text_style": "body"
+          }
+        },
+        "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Explore Wholesale",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-0",
+        "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-1",
+        "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/small-business-interior.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "edef514a-850a-4d72-acff-36a70712e036": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "heading": "Check out our <strong>Ambient Insights<\/strong> Blog",
+        "heading_size": "h1",
+        "blog": "",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3bd4236e-8832-4f6c-8053-7418e50cc96e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Visit our flagship shop!",
+            "heading_size": "h1"
+          }
+        },
+        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>Inside the Coffee Pro<\/strong><\/h2><h2>961 Bedford Highway<br\/>Bedford, Nova Scotia<\/h2><h2>Mon - Fri, 9:30am - 5:30pm<br\/>Saturday, 10am - 5pm<br\/>Sunday, CLOSED<\/h2>",
+            "text_style": "body"
+          }
+        },
+        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Directions",
+            "button_link": "https:\/\/www.google.com\/maps\/dir\/\/961+Bedford+Hwy,+Bedford,+NS+B4A+1A9\/@44.716013,-63.7463883,12z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x4b5989f400b5a98d:0x54b785fa12ecc67d!2m2!1d-63.6763485!2d44.7160344?entry=ttu"
+          }
+        }
+      },
+      "block_order": [
+        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-0",
+        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-1",
+        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-11-13_at_13-29-42_coffee_pro_bedford_-_Google_Search.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cdc39963-a163-4ae8-8baa-b91be005a266": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Candles made to be burned.",
+            "heading_size": "h1"
+          }
+        },
+        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-1": {
+          "type": "text",
+          "settings": {
+            "text": "We love working with 100% natural soy wax! Burning Flame candles are all hand-poured in Halifax, Nova Scotia. Soy candles are manufactured from soybeans. A natural, renewable source grown in many regions by local farmers. Soy candles are sought after because they burn clean and last much longer than petroleum based paraffin wax candles you buy at the grocery store.Our goal is to bring you closer to the memories and fragrances you love without the toxic ingredients. Candles made to be burned. STAY LIT.",
+            "text_style": "body"
+          }
+        },
+        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop our creations",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-0",
+        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-1",
+        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-11-13_at_14-01-11_EASTCOAST_LIFESTYLE_on_Twitter.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "fd0389a8-9469-4792-9097-e66f74d676c5",
+    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907",
+    "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b",
+    "af90a5a0-f00c-4768-9bf9-d6902a9abcae",
+    "aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46",
+    "featured_collection",
+    "36cff32c-8b3f-4dac-9972-5762e30cdd06",
+    "edef514a-850a-4d72-acff-36a70712e036",
+    "3bd4236e-8832-4f6c-8053-7418e50cc96e",
+    "cdc39963-a163-4ae8-8baa-b91be005a266"
+  ]
+}
