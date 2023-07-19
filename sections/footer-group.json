@@ -1,1 +1,54 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","settings":{"color_scheme":"inverse","newsletter_enable":true,"newsletter_heading":"Stay in the loop","enable_follow_on_shop":false,"show_social":true,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":true,"show_policy":false,"margin_top":36,"padding_top":36,"padding_bottom":36}}},"order":["footer"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "d7bd7036-dbc9-4c49-a30f-073ebab26afc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BFCC_LOGO_a31110a7-883e-42fd-b22c-b24503fbd218.png",
+            "image_width": 100,
+            "alignment": ""
+          }
+        },
+        "edf033e0-13da-4ee7-b820-ce67bb2052b8": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "f766bca5-2c81-4814-b24e-9fab7c861511": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "d7bd7036-dbc9-4c49-a30f-073ebab26afc",
+        "edf033e0-13da-4ee7-b820-ce67bb2052b8",
+        "f766bca5-2c81-4814-b24e-9fab7c861511"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "newsletter_enable": true,
+        "newsletter_heading": "Stay in the loop",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 36,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
