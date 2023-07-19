@@ -3332,3 +3332,11 @@ details-disclosure > details {
   background-color: #FCFAF7;
   color:#C38154;
 }
+.button--full-width:hover {
+  color:black;
+}
+
+.button--secondary:hover {
+  background-color:black;
+  color: #FCFAF7;
+}
