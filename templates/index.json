@@ -1,7 +1,56 @@
 {
   "sections": {
+    "58616c2c-a26d-4459-9f58-aa273d8cf720": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14361379831904__58616c2c-a26d-4459-9f58-aa273d8cf720-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Moon Mist Meets Lobster",
+            "heading_size": "h0"
+          }
+        },
+        "template--14361379831904__58616c2c-a26d-4459-9f58-aa273d8cf720-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Nova Scotia's iconic and exclusive Moon Mist ice cream flavour can now be found in a candle, which blends the flavors of grape, banana, and bubblegum for a unique intergalactic swirl. Indulge in a bit of nostalgia before it's gone. ",
+            "text_style": "body"
+          }
+        },
+        "template--14361379831904__58616c2c-a26d-4459-9f58-aa273d8cf720-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Get It Now",
+            "button_link_1": "shopify:\/\/products\/moon-mist-lobster-soy-wax-candle",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14361379831904__58616c2c-a26d-4459-9f58-aa273d8cf720-heading-1",
+        "template--14361379831904__58616c2c-a26d-4459-9f58-aa273d8cf720-text-1",
+        "template--14361379831904__58616c2c-a26d-4459-9f58-aa273d8cf720-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Moonmist_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "fd0389a8-9469-4792-9097-e66f74d676c5": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--14358693871712__fd0389a8-9469-4792-9097-e66f74d676c5-16892200505fb2adf5-0": {
           "type": "slide",
@@ -38,6 +87,51 @@
         "image_behavior": "ambient",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Handcrafted with Love",
+            "heading_size": "h1"
+          }
+        },
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Burning Flame Candle Co., we are passionate about crafting exquisite candles that add a touch of warmth and serenity to your life. Each candle is meticulously handcrafted by our founder and candle maker, Lauren, who pours her heart and soul into every creation.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/pages\/about-us"
+          }
+        }
+      },
+      "block_order": [
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0",
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1",
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/E_-YYgJXMAUJnZ9-1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "0a2c99ca-4afe-46b2-ab0c-1f9f02206907": {
@@ -89,51 +183,6 @@
         "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Handcrafted with Love",
-            "heading_size": "h1"
-          }
-        },
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>At Burning Flame Candle Co., we are passionate about crafting exquisite candles that add a touch of warmth and serenity to your life. Each candle is meticulously handcrafted by our founder and candle maker, Lauren, who pours her heart and soul into every creation.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/about-us"
-          }
-        }
-      },
-      "block_order": [
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0",
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1",
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/E_-YYgJXMAUJnZ9-1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -195,47 +244,6 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "accent-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46": {
-      "type": "collection-list",
-      "disabled": true,
-      "blocks": {
-        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "fall-collection-2022"
-          }
-        },
-        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "fall-winter-2020"
-          }
-        },
-        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "halloween-collection"
-          }
-        }
-      },
-      "block_order": [
-        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-0",
-        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-1",
-        "template--14349417480288__aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46-16863130463eb7d8dd-2"
-      ],
-      "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -316,24 +324,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "edef514a-850a-4d72-acff-36a70712e036": {
-      "type": "featured-blog",
-      "disabled": true,
-      "settings": {
-        "heading": "Check out our <strong>Ambient Insights<\/strong> Blog",
-        "heading_size": "h1",
-        "blog": "",
-        "post_limit": 3,
-        "columns_desktop": 3,
-        "color_scheme": "",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "3bd4236e-8832-4f6c-8053-7418e50cc96e": {
@@ -431,14 +421,13 @@
     }
   },
   "order": [
+    "58616c2c-a26d-4459-9f58-aa273d8cf720",
     "fd0389a8-9469-4792-9097-e66f74d676c5",
-    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907",
     "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b",
+    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907",
     "af90a5a0-f00c-4768-9bf9-d6902a9abcae",
-    "aeb7fb95-6b1c-4f7f-8bd1-10fefa691b46",
     "featured_collection",
     "36cff32c-8b3f-4dac-9972-5762e30cdd06",
-    "edef514a-850a-4d72-acff-36a70712e036",
     "3bd4236e-8832-4f6c-8053-7418e50cc96e",
     "cdc39963-a163-4ae8-8baa-b91be005a266"
   ]
