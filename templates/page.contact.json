@@ -51,7 +51,7 @@
           "type": "column",
           "settings": {
             "title": "Visit our flagship shop!",
-            "text": "<p>961 Bedford Highway<br\/>Bedford, Nova Scotia<\/p><p><\/p><p>Mon - Fri, 9:30am - 5:30pm<br\/>Saturday, 10am - 5pm<br\/>Sunday, CLOSED<\/p>",
+            "text": "<p>LOCATION:<\/p><p>961 Bedford Highway<br\/>Bedford, Nova Scotia<\/p><p>HOURS<\/p><p>Mon - Fri, 9:30am - 5:30pm<br\/>Saturday, 10am - 5pm<br\/>Sunday, CLOSED<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -68,8 +68,8 @@
         "image_ratio": "adapt",
         "columns_desktop": 2,
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
