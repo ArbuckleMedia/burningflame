@@ -16,8 +16,8 @@
         "edf033e0-13da-4ee7-b820-ce67bb2052b8": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "Explore",
+            "menu": "header-menu-primary"
           }
         },
         "f766bca5-2c81-4814-b24e-9fab7c861511": {
