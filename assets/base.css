@@ -3203,7 +3203,7 @@ details-disclosure > details {
 
 /* Element Hovers: 3d Lift */
 
-@media (prefers-reduced-motion: no-preference) and (hover: hover) {
+/* @media (prefers-reduced-motion: no-preference) and (hover: hover) {
   .animate--hover-3d-lift .card-wrapper .card--card,
   .animate--hover-3d-lift .card-wrapper .card--standard .card__inner,
   .animate--hover-3d-lift .button:not(.button--tertiary),
@@ -3321,7 +3321,7 @@ details-disclosure > details {
     --easter-egg: none;
     --sparkle: url('./sparkle.gif');
   }
-}
+} */
 
 .button {
   text-transform:capitalize;
