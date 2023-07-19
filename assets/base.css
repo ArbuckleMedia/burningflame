@@ -3203,7 +3203,7 @@ details-disclosure > details {
 
 /* Element Hovers: 3d Lift */
 
-/* @media (prefers-reduced-motion: no-preference) and (hover: hover) {
+ /* @media (prefers-reduced-motion: no-preference) and (hover: hover) {
   .animate--hover-3d-lift .card-wrapper .card--card,
   .animate--hover-3d-lift .card-wrapper .card--standard .card__inner,
   .animate--hover-3d-lift .button:not(.button--tertiary),
@@ -3213,40 +3213,40 @@ details-disclosure > details {
   .animate--hover-3d-lift .deferred-media .deferred-media__poster-button {
     transition: transform var(--duration-long) ease, box-shadow var(--duration-long) ease;
     transform-origin: center;
-  }
+  } */
 
-  .animate--hover-3d-lift .card-wrapper:hover .card--card,
+  /* .animate--hover-3d-lift .card-wrapper:hover .card--card,
   .animate--hover-3d-lift .card-wrapper:hover .card--standard .card__inner,
   .animate--hover-3d-lift .button:not(.button--tertiary):not([disabled]):hover,
   .animate--hover-3d-lift .shopify-challenge__button:not([disabled]):hover,
   .animate--hover-3d-lift .customer button:not([disabled]):hover,
   .animate--hover-3d-lift .shopify-payment-button__button:hover,
   .animate--hover-3d-lift .deferred-media:hover .deferred-media__poster-button {
-    transition: transform var(--duration-extended) ease, box-shadow var(--duration-long) ease; /* Slow the card transition speed while hover is active. */
+    transition: transform var(--duration-extended) ease, box-shadow var(--duration-long) ease; 
     transform: rotate(1deg);
     box-shadow: -1rem -1rem 1rem -1rem rgba(0, 0, 0, 0.05), 1rem 1rem 1rem -1rem rgba(0, 0, 0, 0.05),
       0 0 0.5rem 0 rgba(255, 255, 255, 0), 0 2rem 3.5rem -2rem rgba(0, 0, 0, 0.5);
-  }
+  } */
 
-  .animate--hover-3d-lift .deferred-media:hover .deferred-media__poster-button {
-    transform: translate(-50%, -50%) scale(1.05); /* Apply a specialized transform to the video play button. */
-  }
+  /* .animate--hover-3d-lift .deferred-media:hover .deferred-media__poster-button {
+    transform: translate(-50%, -50%) scale(1.05); 
+  } */
 
-  .animate--hover-3d-lift .collage__item .card-wrapper:hover .card--card,
+  /* .animate--hover-3d-lift .collage__item .card-wrapper:hover .card--card,
   .animate--hover-3d-lift .collage__item .card-wrapper:hover .card--standard .card__inner {
-    transform: rotate(0.5deg); /* Less intense rotation for collage items. */
-  }
+    transform: rotate(0.5deg); 
+  } */
 
-  .animate--hover-3d-lift .product-grid .grid__item:hover,
+  /* .animate--hover-3d-lift .product-grid .grid__item:hover,
   .animate--hover-3d-lift .collection-list .grid__item:hover,
   .animate--hover-3d-lift .collage__item:hover,
   .animate--hover-3d-lift .blog-articles .article:hover,
   .animate--hover-3d-lift .complementary-slide li:hover {
-    z-index: 2; /* Make sure the hovered card is the topmost card. */
-  }
+    z-index: 2; 
+  } */
 
-  .animate--hover-3d-lift .product-grid {
-    isolation: isolate; /* Ensure z-index changes here don't negatively effect other UI stacking. */
+  /* .animate--hover-3d-lift .product-grid {
+    isolation: isolate; 
   }
 
   .animate--hover-3d-lift .card-wrapper .card--shape.card--standard:not(.card--text) .card__inner {
@@ -3255,11 +3255,11 @@ details-disclosure > details {
   }
 
   .animate--hover-3d-lift .card-wrapper:hover .card--shape.card--standard:not(.card--text) .card__inner {
-    transition: transform calc(2 * var(--duration-extended)) ease, filter var(--duration-long) ease; /* Slow the card transition speed while hover is active. */
+    transition: transform calc(2 * var(--duration-extended)) ease, filter var(--duration-long) ease; 
     filter: drop-shadow(0rem 2rem 2rem rgba(0, 0, 0, 0.15)) drop-shadow(0rem 1rem 1rem rgba(0, 0, 0, 0.15));
-  }
+  } */
 
-  .animate--hover-3d-lift .card-wrapper:hover .card--card:after,
+  /* .animate--hover-3d-lift .card-wrapper:hover .card--card:after,
   .animate--hover-3d-lift .card-wrapper:hover .card--standard .card__inner:after,
   .animate--hover-3d-lift
     .card-wrapper:hover
@@ -3284,9 +3284,9 @@ details-disclosure > details {
     bottom: 0;
     left: 0;
     right: 0;
-  }
+  } */
 
-  .animate--hover-3d-lift .card-wrapper .card--card:before,
+  /* .animate--hover-3d-lift .card-wrapper .card--card:before,
   .animate--hover-3d-lift .card-wrapper .card--standard .card__media:after {
     content: '';
     position: absolute;
@@ -3307,9 +3307,9 @@ details-disclosure > details {
       rgba(255, 255, 255, 1) 50%,
       rgba(255, 255, 255, 0) 55%
     );
-  }
+  } */
 
-  .animate--hover-3d-lift .card-wrapper:hover .card--card:before,
+  /* .animate--hover-3d-lift .card-wrapper:hover .card--card:before,
   .animate--hover-3d-lift .card-wrapper:hover .card--standard .card__media:after {
     opacity: 0.2;
     transition: background-position 6s ease, opacity var(--duration-long) ease;
@@ -3321,7 +3321,7 @@ details-disclosure > details {
     --easter-egg: none;
     --sparkle: url('./sparkle.gif');
   }
-} */
+}  */
 
 .button {
   text-transform:capitalize;
