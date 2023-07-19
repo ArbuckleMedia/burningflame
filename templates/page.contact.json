@@ -33,11 +33,56 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "5ebd0fcc-d65d-43fb-86e2-951b2a1f2c78": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14361380192352__5ebd0fcc-d65d-43fb-86e2-951b2a1f2c78-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-11-13_at_13-29-42_coffee_pro_bedford_-_Google_Search.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14361380192352__5ebd0fcc-d65d-43fb-86e2-951b2a1f2c78-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Visit our flagship shop!",
+            "text": "<p>961 Bedford Highway<br\/>Bedford, Nova Scotia<\/p><p><\/p><p>Mon - Fri, 9:30am - 5:30pm<br\/>Saturday, 10am - 5pm<br\/>Sunday, CLOSED<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14361380192352__5ebd0fcc-d65d-43fb-86e2-951b2a1f2c78-column-1",
+        "template--14361380192352__5ebd0fcc-d65d-43fb-86e2-951b2a1f2c78-column-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "f491dda2-2aed-428b-b030-fae0d533b866",
-    "form"
+    "form",
+    "5ebd0fcc-d65d-43fb-86e2-951b2a1f2c78"
   ]
 }
