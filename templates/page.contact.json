@@ -51,7 +51,7 @@
           "type": "column",
           "settings": {
             "title": "Visit our flagship shop!",
-            "text": "<p>LOCATION:<\/p><p>961 Bedford Highway<br\/>Bedford, Nova Scotia<\/p><p>HOURS<\/p><p>Mon - Fri, 9:30am - 5:30pm<br\/>Saturday, 10am - 5pm<br\/>Sunday, CLOSED<\/p>",
+            "text": "<h4><strong>Inside the Coffee Pro<\/strong><\/h4><h4>961 Bedford Highway<br\/>Bedford, Nova Scotia<\/h4><h4>Mon - Fri, 9:30am - 5:30pm<br\/>Saturday, 10am - 5pm<br\/>Sunday, CLOSED<\/h4>",
             "link_label": "",
             "link": ""
           }
@@ -62,7 +62,7 @@
         "template--14361380192352__5ebd0fcc-d65d-43fb-86e2-951b2a1f2c78-column-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
