@@ -3,7 +3,7 @@
     "logo": "shopify:\/\/shop_images\/BFCC_LOGO_a31110a7-883e-42fd-b22c-b24503fbd218.png",
     "logo_width": 90,
     "favicon": "shopify:\/\/shop_images\/BFCC_LOGO.png",
-    "type_header_font": "assistant_n4",
+    "type_header_font": "lora_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
     "body_scale": 100,
