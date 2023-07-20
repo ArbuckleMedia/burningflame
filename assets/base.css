@@ -3327,12 +3327,16 @@ details-disclosure > details {
   text-transform:capitalize;
   font-weight:bold;
 }
-
+.button--primary {
+  background-color:#C38154;
+  color:#FCFAF7;
+  border:2px solid #C38154;
+}
 
 .button--primary:hover {
   background-color: #FCFAF7;
   color:#C38154;
-  border:1px solid #C38154;
+  border:2px solid #C38154;
 }
 
 .button--secondary:hover {
