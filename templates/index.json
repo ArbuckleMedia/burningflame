@@ -45,75 +45,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured Creations",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
-    "fd0389a8-9469-4792-9097-e66f74d676c5": {
-      "type": "slideshow",
-      "disabled": true,
-      "blocks": {
-        "template--14358693871712__fd0389a8-9469-4792-9097-e66f74d676c5-16892200505fb2adf5-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MoonmistIcecream.png",
-            "heading": "Moon Mist Meets Lobster",
-            "heading_size": "h1",
-            "subheading": "Nova Scotia's iconic and exclusive Moon Mist ice cream flavour can now be found in a candle, which blends the flavors of grape, banana, and bubblegum for a unique intergalactic swirl. Indulge in a bit of nostalgia before it's gone. ",
-            "button_label": "Get It Now",
-            "link": "shopify:\/\/products\/moon-mist-lobster-soy-wax-candle",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": true,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-432b7b3e-4565-4ef6-9490-3b0eda653b6a",
-            "text_alignment_mobile": "left"
-          }
-        }
-      },
-      "block_order": [
-        "template--14358693871712__fd0389a8-9469-4792-9097-e66f74d676c5-16892200505fb2adf5-0"
-      ],
-      "custom_css": [
-        ".button {text-transform: uppercase; width: 100%;}",
-        ".banner__buttons {width: 100%;}"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "large",
-        "slider_visual": "dots",
-        "auto_rotate": true,
-        "change_slides_speed": 7,
-        "image_behavior": "ambient",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b": {
       "type": "image-with-text",
       "blocks": {
@@ -159,6 +90,137 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Creations",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "c6fe2d87-fb98-4968-bef5-b5594a209c50": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Eco-Conscious Creations",
+            "icon": "leaf",
+            "row_content": "<p>Our candles are thoughtfully made using 100% natural soy wax, promoting a cleaner and more sustainable environment.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Captivating Fragrances",
+            "icon": "fire",
+            "row_content": "<p>Immerse your senses in a diverse range of enchanting scents, carefully curated to evoke emotions and create lasting memories.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Artisanal Elegance",
+            "icon": "perfume",
+            "row_content": "<p>Each candle is a work of art, uniquely designed and hand-poured by our skilled artisans, adding a touch of elegance to any space.<\/p>",
+            "page": ""
+          }
+        },
+        "39be743a-c52b-4a2f-9c0b-c3b1c919cc52": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Enhance Your Well-being",
+            "icon": "heart",
+            "row_content": "<p>Indulge in the therapeutic benefits of our candles, as they create a soothing and calming ambiance, promoting relaxation and tranquility.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-1",
+        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-2",
+        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-3",
+        "39be743a-c52b-4a2f-9c0b-c3b1c919cc52"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Premium Handcrafted Candles",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/6.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fd0389a8-9469-4792-9097-e66f74d676c5": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--14358693871712__fd0389a8-9469-4792-9097-e66f74d676c5-16892200505fb2adf5-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MoonmistIcecream.png",
+            "heading": "Moon Mist Meets Lobster",
+            "heading_size": "h1",
+            "subheading": "Nova Scotia's iconic and exclusive Moon Mist ice cream flavour can now be found in a candle, which blends the flavors of grape, banana, and bubblegum for a unique intergalactic swirl. Indulge in a bit of nostalgia before it's gone. ",
+            "button_label": "Get It Now",
+            "link": "shopify:\/\/products\/moon-mist-lobster-soy-wax-candle",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-432b7b3e-4565-4ef6-9490-3b0eda653b6a",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14358693871712__fd0389a8-9469-4792-9097-e66f74d676c5-16892200505fb2adf5-0"
+      ],
+      "custom_css": [
+        ".button {text-transform: uppercase; width: 100%;}",
+        ".banner__buttons {width: 100%;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 7,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "af90a5a0-f00c-4768-9bf9-d6902a9abcae": {
       "type": "multicolumn",
       "blocks": {
@@ -166,18 +228,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/1_96ba18e2-da0f-4bb6-aa6d-dcd73f421dda.png",
-            "title": "Eco-Conscious Creations",
-            "text": "<p>Our candles are thoughtfully made using 100% natural soy wax, promoting a cleaner and more sustainable environment.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8_7885d8e9-85a0-46c2-a14c-43c2cfb403e1.png",
-            "title": "Captivating Fragrances",
-            "text": "<p>Immerse your senses in a diverse range of enchanting scents, carefully curated to evoke emotions and create lasting memories.<\/p>",
+            "title": "<strong>The first burn is the most important.<\/strong>",
+            "text": "<p>When you light your candle for the first time, always allow the wax to melt across the entire surface to the edges of the container.<\/p><p><\/p><p>This will prevent tunnelling and help create an even burn for the duration of the candle's life. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -186,14 +238,25 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/2_97637b8c-42b7-4cd6-a48d-31428aac8f51.png",
-            "title": "Artisanal Elegance",
-            "text": "<p>Each candle is a work of art, uniquely designed and hand-poured by our skilled artisans, adding a touch of elegance to any space.<\/p>",
+            "title": "<strong>Trim your WICK!<\/strong>",
+            "text": "<p>After each and every time you burn (once your candle has cooled) trim your wick to approx. 1\/4 inch.<\/p><p>Always make sure your wick is trimmed before re-lighting.<\/p><p>This ensures to remove any debris and allow your candle to burn brighter, last longer, and have a much better scent throw.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_7885d8e9-85a0-46c2-a14c-43c2cfb403e1.png",
+            "title": "<strong>Half Inch Rule.<\/strong>",
+            "text": "<p>After each and every time you burn (once your candle has cooled) trim your wick to approx. 1\/4 inch.<\/p><p>Always make sure your wick is trimmed before re-lighting.<\/p><p>This ensures to remove any debris and allow your candle to burn brighter, last longer, and have a much better scent throw.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
         "13ee1a73-ce9d-44d8-a69f-61bef54b5d6f": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/7_b580d96e-c3b8-41f0-bb0a-d84dfa736168.png",
             "title": "Enhance Your Well-being",
@@ -205,16 +268,16 @@
       },
       "block_order": [
         "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-0",
-        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1",
         "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-2",
+        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1",
         "13ee1a73-ce9d-44d8-a69f-61bef54b5d6f"
       ],
       "settings": {
-        "title": "Enlightened Craftsmanship",
+        "title": "How To Extend The Life Of Your Candle",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -222,58 +285,6 @@
         "color_scheme": "accent-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "c6fe2d87-fb98-4968-bef5-b5594a209c50": {
-      "type": "collapsible-content",
-      "disabled": true,
-      "blocks": {
-        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Natural soy wax with 100% cotton wick.",
-            "icon": "leaf",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Clean & long lasting burn.",
-            "icon": "fire",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Premium sourced fragrance oils.",
-            "icon": "perfume",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-1",
-        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-2",
-        "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-3"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Premium Handcrafted Candles",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "small",
-        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -430,11 +441,11 @@
   },
   "order": [
     "c35a4820-cf5f-4c9c-8a0d-afecd0da5b00",
-    "featured_collection",
-    "fd0389a8-9469-4792-9097-e66f74d676c5",
     "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b",
-    "af90a5a0-f00c-4768-9bf9-d6902a9abcae",
+    "featured_collection",
     "c6fe2d87-fb98-4968-bef5-b5594a209c50",
+    "fd0389a8-9469-4792-9097-e66f74d676c5",
+    "af90a5a0-f00c-4768-9bf9-d6902a9abcae",
     "36cff32c-8b3f-4dac-9972-5762e30cdd06",
     "0a2c99ca-4afe-46b2-ab0c-1f9f02206907",
     "cdc39963-a163-4ae8-8baa-b91be005a266"
