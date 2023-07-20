@@ -3339,6 +3339,12 @@ details-disclosure > details {
   color:#C38154;
   border:2px solid #C38154;
 }
+.button--secondary {
+  background-color:#FCFAF7;
+  color:#121212;
+  border:2px solid #121212;
+}
+
 
 .button--secondary:hover {
   background-color:#121212;
@@ -3350,3 +3356,4 @@ details-disclosure > details {
   width:100%;
 }
 }
+/* test */
