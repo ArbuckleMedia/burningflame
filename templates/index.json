@@ -162,6 +162,51 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Handcrafted with Love",
+            "heading_size": "h1"
+          }
+        },
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Burning Flame Candle Co., we are passionate about crafting exquisite candles that add a touch of warmth and serenity to your life. Each candle is meticulously handcrafted by our founder and candle maker, Lauren, who pours her heart and soul into every creation.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/pages\/about-us"
+          }
+        }
+      },
+      "block_order": [
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0",
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1",
+        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/E_-YYgJXMAUJnZ9-1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "0a2c99ca-4afe-46b2-ab0c-1f9f02206907": {
       "type": "multicolumn",
       "blocks": {
@@ -211,51 +256,6 @@
         "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Handcrafted with Love",
-            "heading_size": "h1"
-          }
-        },
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>At Burning Flame Candle Co., we are passionate about crafting exquisite candles that add a touch of warmth and serenity to your life. Each candle is meticulously handcrafted by our founder and candle maker, Lauren, who pours her heart and soul into every creation.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/about-us"
-          }
-        }
-      },
-      "block_order": [
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0",
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1",
-        "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/E_-YYgJXMAUJnZ9-1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -471,8 +471,8 @@
     "featured_collection",
     "58616c2c-a26d-4459-9f58-aa273d8cf720",
     "fd0389a8-9469-4792-9097-e66f74d676c5",
-    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907",
     "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b",
+    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907",
     "af90a5a0-f00c-4768-9bf9-d6902a9abcae",
     "36cff32c-8b3f-4dac-9972-5762e30cdd06",
     "3bd4236e-8832-4f6c-8053-7418e50cc96e",
