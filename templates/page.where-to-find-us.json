@@ -30,7 +30,7 @@
         "0aa0cac5-cea3-456f-8c94-249ef8a57c20"
       ],
       "custom_css": [
-        "h2 {text-align:center;}"
+
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/3_dc039571-41bd-4bee-81bf-283b09eba7c5.png",
@@ -38,7 +38,7 @@
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
