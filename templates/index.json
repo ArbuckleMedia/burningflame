@@ -119,22 +119,22 @@
         "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Handcrafted with Love",
+            "heading": "Candles made to be burned.",
             "heading_size": "h1"
           }
         },
         "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>At Burning Flame Candle Co., we are passionate about crafting exquisite candles that add a touch of warmth and serenity to your life. Each candle is meticulously handcrafted by our founder and candle maker, Lauren, who pours her heart and soul into every creation.<\/p>",
+            "text": "<p>We love working with 100% natural soy wax! Burning Flame candles are all hand-poured in Halifax, Nova Scotia. Soy candles are manufactured from soybeans. A natural, renewable source grown in many regions by local farmers. Soy candles are sought after because they burn clean and last much longer than petroleum based paraffin wax candles you buy at the grocery store.Our goal is to bring you closer to the memories and fragrances you love without the toxic ingredients. Candles made to be burned. STAY LIT.<\/p>",
             "text_style": "body"
           }
         },
         "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2": {
           "type": "button",
           "settings": {
-            "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/about-us"
+            "button_label": "Shop our Creations",
+            "button_link": "shopify:\/\/collections\/all"
           }
         }
       },
