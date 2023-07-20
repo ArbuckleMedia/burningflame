@@ -45,6 +45,50 @@
         "padding_bottom": 36
       }
     },
+    "ea378c2c-b37d-4940-8e75-1d61a80a43e5": {
+      "type": "image-with-text-alt",
+      "blocks": {
+        "template--14361379831904__ea378c2c-b37d-4940-8e75-1d61a80a43e5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Moon Mist Meets Lobster",
+            "heading_size": "h1"
+          }
+        },
+        "template--14361379831904__ea378c2c-b37d-4940-8e75-1d61a80a43e5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nova Scotia's iconic and exclusive Moon Mist ice cream flavour can now be found in a candle, which blends the flavours of grape, banana, and bubblegum for a unique intergalactic swirl. Indulge in a bit of nostalgia before it's gone. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14361379831904__ea378c2c-b37d-4940-8e75-1d61a80a43e5-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get It Now",
+            "button_link": "shopify:\/\/products\/moon-mist-lobster-soy-wax-candle"
+          }
+        }
+      },
+      "block_order": [
+        "template--14361379831904__ea378c2c-b37d-4940-8e75-1d61a80a43e5-heading-1",
+        "template--14361379831904__ea378c2c-b37d-4940-8e75-1d61a80a43e5-text-1",
+        "template--14361379831904__ea378c2c-b37d-4940-8e75-1d61a80a43e5-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MoonmistIcecream.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -275,6 +319,7 @@
     },
     "0a2c99ca-4afe-46b2-ab0c-1f9f02206907": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0": {
           "type": "column",
@@ -377,6 +422,7 @@
   },
   "order": [
     "c35a4820-cf5f-4c9c-8a0d-afecd0da5b00",
+    "ea378c2c-b37d-4940-8e75-1d61a80a43e5",
     "featured_collection",
     "fd0389a8-9469-4792-9097-e66f74d676c5",
     "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b",
