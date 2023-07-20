@@ -209,6 +209,14 @@
   .card--horizontal__quick-add {
     font-size: calc(var(--font-heading-scale) * 1.3rem);
   }
+  .card__inner {
+    height:300px;
+  }
+}
+@media only screen and (max-width: 749px) {
+  .card__inner {
+    height:200px;
+  }
 }
 
 .card--card.card--media > .card__content {
