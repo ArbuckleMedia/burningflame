@@ -1,23 +1,23 @@
 {
   "sections": {
-    "8706a4e2-c6c4-4660-a743-bac7b946526a": {
-      "type": "image-with-text-alt",
+    "c35a4820-cf5f-4c9c-8a0d-afecd0da5b00": {
+      "type": "image-with-text",
       "blocks": {
-        "template--14361379831904__8706a4e2-c6c4-4660-a743-bac7b946526a-heading-1": {
+        "template--14361379831904__c35a4820-cf5f-4c9c-8a0d-afecd0da5b00-heading-1": {
           "type": "heading",
           "settings": {
             "heading": "Moon Mist Meets Lobster",
             "heading_size": "h1"
           }
         },
-        "template--14361379831904__8706a4e2-c6c4-4660-a743-bac7b946526a-text-1": {
+        "template--14361379831904__c35a4820-cf5f-4c9c-8a0d-afecd0da5b00-text-1": {
           "type": "text",
           "settings": {
             "text": "<p>Nova Scotia's iconic and exclusive Moon Mist ice cream flavour can now be found in a candle, which blends the flavours of grape, banana, and bubblegum for a unique intergalactic swirl. Indulge in a bit of nostalgia before it's gone. <\/p>",
             "text_style": "body"
           }
         },
-        "template--14361379831904__8706a4e2-c6c4-4660-a743-bac7b946526a-button-1": {
+        "template--14361379831904__c35a4820-cf5f-4c9c-8a0d-afecd0da5b00-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Get It Now",
@@ -26,19 +26,20 @@
         }
       },
       "block_order": [
-        "template--14361379831904__8706a4e2-c6c4-4660-a743-bac7b946526a-heading-1",
-        "template--14361379831904__8706a4e2-c6c4-4660-a743-bac7b946526a-text-1",
-        "template--14361379831904__8706a4e2-c6c4-4660-a743-bac7b946526a-button-1"
+        "template--14361379831904__c35a4820-cf5f-4c9c-8a0d-afecd0da5b00-heading-1",
+        "template--14361379831904__c35a4820-cf5f-4c9c-8a0d-afecd0da5b00-text-1",
+        "template--14361379831904__c35a4820-cf5f-4c9c-8a0d-afecd0da5b00-button-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MoonmistIcecream.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -238,8 +239,7 @@
         "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-1": {
           "type": "text",
           "settings": {
-            "text": "Our products are perfect for weddings, corporate and client gifts, homes, promotional items, celebrations, party favours, memorial services, fundraising, employee thank yous, holiday gifts, Realtors + closing gifts, and more.",
-            "text_style": "body"
+            "text": "<p>Our products are perfect for weddings, corporate and client gifts, homes, promotional items, celebrations, party favours, memorial services, fundraising, employee thank yous, holiday gifts, Realtors + closing gifts, and more.<\/p>"
           }
         },
         "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-2": {
@@ -341,8 +341,7 @@
         "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-1": {
           "type": "text",
           "settings": {
-            "text": "We love working with 100% natural soy wax! Burning Flame candles are all hand-poured in Halifax, Nova Scotia. Soy candles are manufactured from soybeans. A natural, renewable source grown in many regions by local farmers. Soy candles are sought after because they burn clean and last much longer than petroleum based paraffin wax candles you buy at the grocery store.Our goal is to bring you closer to the memories and fragrances you love without the toxic ingredients. Candles made to be burned. STAY LIT.",
-            "text_style": "body"
+            "text": "<p>We love working with 100% natural soy wax! Burning Flame candles are all hand-poured in Halifax, Nova Scotia. Soy candles are manufactured from soybeans. A natural, renewable source grown in many regions by local farmers. Soy candles are sought after because they burn clean and last much longer than petroleum based paraffin wax candles you buy at the grocery store.Our goal is to bring you closer to the memories and fragrances you love without the toxic ingredients. Candles made to be burned. STAY LIT.<\/p>"
           }
         },
         "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-2": {
@@ -378,7 +377,7 @@
     }
   },
   "order": [
-    "8706a4e2-c6c4-4660-a743-bac7b946526a",
+    "c35a4820-cf5f-4c9c-8a0d-afecd0da5b00",
     "featured_collection",
     "fd0389a8-9469-4792-9097-e66f74d676c5",
     "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b",
