@@ -158,60 +158,6 @@
         "padding_bottom": 36
       }
     },
-    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h2><strong>Natural soy wax with 100% cotton wick.<\/strong><\/h2>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h2><strong>Clean & long lasting burn.<\/strong><\/h2>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h2><strong>Premium sourced  fragrance oils.<\/strong><\/h2>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0",
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-1",
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-2"
-      ],
-      "settings": {
-        "title": "Premium Handcrafted Candles",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "af90a5a0-f00c-4768-9bf9-d6902a9abcae": {
       "type": "multicolumn",
       "blocks": {
@@ -327,48 +273,56 @@
         "show_text_below": true
       }
     },
-    "3bd4236e-8832-4f6c-8053-7418e50cc96e": {
-      "type": "image-with-text",
+    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907": {
+      "type": "multicolumn",
       "disabled": true,
       "blocks": {
-        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-0": {
-          "type": "heading",
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0": {
+          "type": "column",
           "settings": {
-            "heading": "Visit our flagship shop!",
-            "heading_size": "h1"
+            "title": "",
+            "text": "<h2><strong>Natural soy wax with 100% cotton wick.<\/strong><\/h2>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-1": {
-          "type": "text",
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-1": {
+          "type": "column",
           "settings": {
-            "text": "<h2><strong>Inside the Coffee Pro<\/strong><\/h2><h2>961 Bedford Highway<br\/>Bedford, Nova Scotia<\/h2><h2>Mon - Fri, 9:30am - 5:30pm<br\/>Saturday, 10am - 5pm<br\/>Sunday, CLOSED<\/h2>",
-            "text_style": "body"
+            "title": "",
+            "text": "<h2><strong>Clean & long lasting burn.<\/strong><\/h2>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-2": {
-          "type": "button",
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-2": {
+          "type": "column",
           "settings": {
-            "button_label": "Get Directions",
-            "button_link": "https:\/\/www.google.com\/maps\/dir\/\/961+Bedford+Hwy,+Bedford,+NS+B4A+1A9\/@44.716013,-63.7463883,12z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x4b5989f400b5a98d:0x54b785fa12ecc67d!2m2!1d-63.6763485!2d44.7160344?entry=ttu"
+            "title": "",
+            "text": "<h2><strong>Premium sourced  fragrance oils.<\/strong><\/h2>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-0",
-        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-1",
-        "template--14349417480288__3bd4236e-8832-4f6c-8053-7418e50cc96e-168788377787609e0a-2"
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0",
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-1",
+        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2022-11-13_at_13-29-42_coffee_pro_bedford_-_Google_Search.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "title": "Premium Handcrafted Candles",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -428,10 +382,9 @@
     "featured_collection",
     "fd0389a8-9469-4792-9097-e66f74d676c5",
     "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b",
-    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907",
     "af90a5a0-f00c-4768-9bf9-d6902a9abcae",
     "36cff32c-8b3f-4dac-9972-5762e30cdd06",
-    "3bd4236e-8832-4f6c-8053-7418e50cc96e",
+    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907",
     "cdc39963-a163-4ae8-8baa-b91be005a266"
   ]
 }
