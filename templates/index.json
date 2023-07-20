@@ -160,6 +160,7 @@
     },
     "0a2c99ca-4afe-46b2-ab0c-1f9f02206907": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0": {
           "type": "column",
@@ -217,6 +218,7 @@
         "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/1_96ba18e2-da0f-4bb6-aa6d-dcd73f421dda.png",
             "title": "Eco-Conscious Creations",
             "text": "<p>Our candles are thoughtfully made using 100% natural soy wax, promoting a cleaner and more sustainable environment.<\/p>",
             "link_label": "",
@@ -226,8 +228,9 @@
         "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/8_7885d8e9-85a0-46c2-a14c-43c2cfb403e1.png",
             "title": "Captivating Fragrances",
-            "text": "<p> Immerse your senses in a diverse range of enchanting scents, carefully curated to evoke emotions and create lasting memories.<\/p>",
+            "text": "<p>Immerse your senses in a diverse range of enchanting scents, carefully curated to evoke emotions and create lasting memories.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -235,6 +238,7 @@
         "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2_97637b8c-42b7-4cd6-a48d-31428aac8f51.png",
             "title": "Artisanal Elegance",
             "text": "<p>Each candle is a work of art, uniquely designed and hand-poured by our skilled artisans, adding a touch of elegance to any space.<\/p>",
             "link_label": "",
@@ -244,6 +248,7 @@
         "13ee1a73-ce9d-44d8-a69f-61bef54b5d6f": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/7_b580d96e-c3b8-41f0-bb0a-d84dfa736168.png",
             "title": "Enhance Your Well-being",
             "text": "<p>Indulge in the therapeutic benefits of our candles, as they create a soothing and calming ambiance, promoting relaxation and tranquility.<\/p>",
             "link_label": "",
