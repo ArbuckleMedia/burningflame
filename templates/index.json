@@ -32,7 +32,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MoonmistIcecream.png",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -275,7 +275,6 @@
     },
     "0a2c99ca-4afe-46b2-ab0c-1f9f02206907": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0": {
           "type": "column",
