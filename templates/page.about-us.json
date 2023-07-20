@@ -8,6 +8,42 @@
         "padding_bottom": 28
       }
     },
+    "12627ce7-566b-4623-92d7-b84222e49445": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14361379799136__12627ce7-566b-4623-92d7-b84222e49445-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Handcrafted with Love",
+            "heading_size": "h1"
+          }
+        },
+        "template--14361379799136__12627ce7-566b-4623-92d7-b84222e49445-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "At Burning Flame Candle Co., we are passionate about crafting exquisite candles that add a touch of warmth and serenity to your life. Each candle is meticulously handcrafted by our founder and candle maker, Lauren, who pours her heart and soul into every creation.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14361379799136__12627ce7-566b-4623-92d7-b84222e49445-heading-1",
+        "template--14361379799136__12627ce7-566b-4623-92d7-b84222e49445-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/15.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "5a8b3bd1-4a2f-4d46-a30d-eb03da3b702b": {
       "type": "image-with-text",
       "blocks": {
@@ -118,7 +154,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -128,6 +164,7 @@
   },
   "order": [
     "main",
+    "12627ce7-566b-4623-92d7-b84222e49445",
     "5a8b3bd1-4a2f-4d46-a30d-eb03da3b702b",
     "f77eb265-a151-44f3-932c-71d8fb1946da",
     "886c7c36-8add-4e0e-b454-a5ef48b5e150"
