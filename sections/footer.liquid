@@ -201,12 +201,12 @@
                     </label>
                     <button
                       type="submit"
-                      class="field__button button--primary button"
+                      class="newsletter-form__button field__button"
                       name="commit"
                       id="Subscribe"
                       aria-label="{{ 'newsletter.button_label' | t }}"
                     >
-                      Subscribe
+                      {% render 'icon-arrow' %}
                     </button>
                   </div>
                   {%- if form.errors -%}
