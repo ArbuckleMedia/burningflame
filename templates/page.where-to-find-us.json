@@ -21,8 +21,7 @@
         "0aa0cac5-cea3-456f-8c94-249ef8a57c20": {
           "type": "text",
           "settings": {
-            "text": "<strong>FLAGSHIP SHOP NOW LOCATED INSIDE COFFEE PROTwo convenient locations that carry our entire collection!961 Bedford Hwy, Bedford, NS B4A 1A9 orScotia Square, 5201 Duke St, Halifax, NS B3J 1N9<\/strong>",
-            "text_style": "body"
+            "text": "<p><strong>FLAGSHIP SHOP NOW LOCATED INSIDE COFFEE PRO<\/strong><\/p><p><strong>Two convenient locations that carry our entire collection!<\/strong><\/p><p><strong>961 Bedford Hwy, Bedford, NS B4A 1A9 or<\/strong><\/p><p><strong>Scotia Square, 5201 Duke St, Halifax, NS B3J 1N9<\/strong><\/p>"
           }
         }
       },
@@ -30,13 +29,16 @@
         "template--14349417578592__bd13c7ed-17e5-4c63-9c65-0ba93ea9e614-168788125476498635-0",
         "0aa0cac5-cea3-456f-8c94-249ef8a57c20"
       ],
+      "custom_css": [
+        "h2 {text-align:center;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/3_dc039571-41bd-4bee-81bf-283b09eba7c5.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
