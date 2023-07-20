@@ -21,8 +21,7 @@
         "template--14361379799136__12627ce7-566b-4623-92d7-b84222e49445-text-1": {
           "type": "text",
           "settings": {
-            "text": "At Burning Flame Candle Co., we are passionate about crafting exquisite candles that add a touch of warmth and serenity to your life. Each candle is meticulously handcrafted by our founder and candle maker, Lauren, who pours her heart and soul into every creation.",
-            "text_style": "body"
+            "text": "<p>At Burning Flame Candle Co., we are passionate about crafting exquisite candles that add a touch of warmth and serenity to your life. Each candle is meticulously handcrafted by our founder and candle maker, Lauren, who pours her heart and soul into every creation.<\/p>"
           }
         }
       },
@@ -31,7 +30,7 @@
         "template--14361379799136__12627ce7-566b-4623-92d7-b84222e49445-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/3_a257d8ce-90e8-4b3f-b67f-ab5eabad10d3.png",
+        "image": "shopify:\/\/shop_images\/2_bcf144e6-a4dc-4848-b94a-264f6b43b968.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
