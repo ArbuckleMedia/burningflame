@@ -44,6 +44,34 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Creations",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
     "58616c2c-a26d-4459-9f58-aa273d8cf720": {
       "type": "image-banner",
       "disabled": true,
@@ -295,34 +323,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured Creations",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
     "36cff32c-8b3f-4dac-9972-5762e30cdd06": {
       "type": "image-banner",
       "blocks": {
@@ -468,12 +468,12 @@
   },
   "order": [
     "8706a4e2-c6c4-4660-a743-bac7b946526a",
+    "featured_collection",
     "58616c2c-a26d-4459-9f58-aa273d8cf720",
     "fd0389a8-9469-4792-9097-e66f74d676c5",
     "0a2c99ca-4afe-46b2-ab0c-1f9f02206907",
     "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b",
     "af90a5a0-f00c-4768-9bf9-d6902a9abcae",
-    "featured_collection",
     "36cff32c-8b3f-4dac-9972-5762e30cdd06",
     "3bd4236e-8832-4f6c-8053-7418e50cc96e",
     "cdc39963-a163-4ae8-8baa-b91be005a266"
