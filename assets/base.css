@@ -3328,9 +3328,11 @@ details-disclosure > details {
   font-weight:bold;
 }
 
+
 .button--primary:hover {
   background-color: #FCFAF7;
   color:#C38154;
+  border:1px solid #C38154;
 }
 
 .button--secondary:hover {
