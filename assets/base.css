@@ -3337,3 +3337,9 @@ details-disclosure > details {
   background-color:#121212;
   color: #FCFAF7;
 }
+
+@media screen and (max-width: 749px) {
+.button {
+  width:100%;
+}
+}
