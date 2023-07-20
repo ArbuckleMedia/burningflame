@@ -221,6 +221,7 @@
 
 .card--card.card--media > .card__content {
   margin-top: calc(0rem - var(--image-padding));
+  background-color: #F5EEE4;
 }
 
 .card--standard.card--text a::after,
