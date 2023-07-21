@@ -3376,3 +3376,16 @@ details-disclosure > details {
 .quantity__button:hover svg {
   color: #FCFAF7 !important; 
 }
+.quantity__input {
+  border: 1px solid #121212;
+}
+button.quantity__button.js-qty__adjust--plus.no-js-hidden {
+  border-top: 1px solid #121212;
+  border-bottom:1px solid #121212;
+  border-right:1px solid #121212;
+}
+button.quantity__button.js-qty__adjust--minus.no-js-hidden {
+  border-top: 1px solid #121212;
+  border-bottom:1px solid #121212;
+  border-left:1px solid #121212;
+}
