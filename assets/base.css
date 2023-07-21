@@ -3371,22 +3371,22 @@ details-disclosure > details {
   background: #865439 !important;
 }
 .js-qty__adjust--minus:hover {
-  background: #865439 !important;
+  background: #F5EEE4; !important;
 }
 .quantity__button:hover svg {
   color: #FCFAF7 !important; 
 }
 .quantity__input {
-  border: 2px solid #865439;
+  border: 2px solid #F5EEE4;
 }
 button.quantity__button.js-qty__adjust--plus.no-js-hidden {
-  border-top: 2px solid #865439;
-  border-bottom:2px solid #865439;
-  border-right:2px solid #865439;
+  border-top: 2px solid #F5EEE4;
+  border-bottom:2px solid #F5EEE4;
+  border-right:2px solid #F5EEE4;
 }
 button.quantity__button.js-qty__adjust--minus.no-js-hidden {
-  border-top: 2px solid #865439;
-  border-bottom:2px solid #865439;
-  border-left:2px solid #865439;
+  border-top: 2px solid #F5EEE4;
+  border-bottom:2px solid #F5EEE4;
+  border-left:2px solid #F5EEE4;
 }
 /* test */
