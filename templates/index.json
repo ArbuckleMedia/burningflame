@@ -52,7 +52,7 @@
           "type": "heading",
           "settings": {
             "heading": "Candles made to be burned.",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-1": {
@@ -94,7 +94,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured Creations",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -167,8 +167,8 @@
       "settings": {
         "caption": "",
         "heading": "Premium Handcrafted Candles",
-        "heading_size": "h1",
-        "heading_alignment": "center",
+        "heading_size": "h2",
+        "heading_alignment": "left",
         "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "background-2",
@@ -253,28 +253,16 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "13ee1a73-ce9d-44d8-a69f-61bef54b5d6f": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7_b580d96e-c3b8-41f0-bb0a-d84dfa736168.png",
-            "title": "Enhance Your Well-being",
-            "text": "<p>Indulge in the therapeutic benefits of our candles, as they create a soothing and calming ambiance, promoting relaxation and tranquility.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-0",
         "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-2",
-        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1",
-        "13ee1a73-ce9d-44d8-a69f-61bef54b5d6f"
+        "template--14349417480288__af90a5a0-f00c-4768-9bf9-d6902a9abcae-168675331308280fb8-1"
       ],
       "settings": {
         "title": "How To Extend The Life Of Your Candle",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -296,7 +284,7 @@
           "type": "heading",
           "settings": {
             "heading": "Wholesale Inquiries",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-1": {
@@ -326,112 +314,10 @@
         "image": "shopify:\/\/shop_images\/small-business-interior.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h2><strong>Natural soy wax with 100% cotton wick.<\/strong><\/h2>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h2><strong>Clean & long lasting burn.<\/strong><\/h2>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h2><strong>Premium sourced  fragrance oils.<\/strong><\/h2>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-0",
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-1",
-        "template--14349417480288__0a2c99ca-4afe-46b2-ab0c-1f9f02206907-1687884393e3bf1d2f-2"
-      ],
-      "settings": {
-        "title": "Premium Handcrafted Candles",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "cdc39963-a163-4ae8-8baa-b91be005a266": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Candles made to be burned.",
-            "heading_size": "h1"
-          }
-        },
-        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We love working with 100% natural soy wax! Burning Flame candles are all hand-poured in Halifax, Nova Scotia. Soy candles are manufactured from soybeans. A natural, renewable source grown in many regions by local farmers. Soy candles are sought after because they burn clean and last much longer than petroleum based paraffin wax candles you buy at the grocery store.Our goal is to bring you closer to the memories and fragrances you love without the toxic ingredients. Candles made to be burned. STAY LIT.<\/p>"
-          }
-        },
-        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop our creations",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-0",
-        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-1",
-        "template--14349417480288__cdc39963-a163-4ae8-8baa-b91be005a266-168788494838f90b10-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2022-11-13_at_14-01-11_EASTCOAST_LIFESTYLE_on_Twitter.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
@@ -446,8 +332,6 @@
     "c6fe2d87-fb98-4968-bef5-b5594a209c50",
     "fd0389a8-9469-4792-9097-e66f74d676c5",
     "af90a5a0-f00c-4768-9bf9-d6902a9abcae",
-    "36cff32c-8b3f-4dac-9972-5762e30cdd06",
-    "0a2c99ca-4afe-46b2-ab0c-1f9f02206907",
-    "cdc39963-a163-4ae8-8baa-b91be005a266"
+    "36cff32c-8b3f-4dac-9972-5762e30cdd06"
   ]
 }
