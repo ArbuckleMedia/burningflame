@@ -15,7 +15,7 @@
           "type": "heading",
           "settings": {
             "heading": "Handcrafted with Love",
-            "heading_size": "h0"
+            "heading_size": "h1"
           }
         },
         "template--14361379799136__12627ce7-566b-4623-92d7-b84222e49445-text-1": {
@@ -50,7 +50,7 @@
           "type": "heading",
           "settings": {
             "heading": "Meet the Maker ❤️",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--14349417578592__5a8b3bd1-4a2f-4d46-a30d-eb03da3b702b-1687881177574f6721-1": {
@@ -95,7 +95,7 @@
           "type": "heading",
           "settings": {
             "heading": "Experience the Warm Glow of Handcrafted Eco-Friendly Candles: Atlantic Canada's Finest!",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--14361379799136__6eda6f9e-e544-4888-b33c-3204693657e5-text-1": {
@@ -133,72 +133,6 @@
         "padding_bottom": 36
       }
     },
-    "f77eb265-a151-44f3-932c-71d8fb1946da": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--14349417578592__f77eb265-a151-44f3-932c-71d8fb1946da-1687881442134450b2-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Experience the Warm Glow of Handcrafted Eco-Friendly Candles: Atlantic Canada's Finest!",
-            "heading_size": "h1"
-          }
-        },
-        "template--14349417578592__f77eb265-a151-44f3-932c-71d8fb1946da-1687881442134450b2-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>At Burning Flame, we specialize in creating unique candles tailored to your preferences, whether it's for your home, events, or businesses.<\/p><p>Imagine having a custom candle that perfectly reflects your brand's image, with or without fragrance. At Burning Flame Candle Co., we bring your dream candles to life. All our candles are meticulously handcrafted in Halifax, Nova Scotia, using eco-friendly 100% soy wax. Our candles burn clean without any phthalates or parabens, ensuring a safe and enjoyable experience. We pride ourselves on using only top-quality materials and ingredients.<\/p><p>Our fully customizable branded candles are designed from concept to production, allowing you to showcase your brand in a truly personalized way. They are perfect for a wide range of occasions, including weddings, corporate and client gifts, homes, promotional items, celebrations, party favors, memorial services, fundraising events, employee appreciation, holiday gifts, and more.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14349417578592__f77eb265-a151-44f3-932c-71d8fb1946da-1687881442134450b2-0",
-        "template--14349417578592__f77eb265-a151-44f3-932c-71d8fb1946da-1687881442134450b2-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "09a2326e-c047-444d-8dfc-62e56101eb49": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--14361379799136__09a2326e-c047-444d-8dfc-62e56101eb49-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_a257d8ce-90e8-4b3f-b67f-ab5eabad10d3.png",
-            "title": "Experience the Warm Glow of Handcrafted Eco-Friendly Candles: Atlantic Canada's Finest!",
-            "text": "<p>At Burning Flame, we specialize in creating unique candles tailored to your preferences, whether it's for your home, events, or businesses.<\/p><p>Imagine having a custom candle that perfectly reflects your brand's image, with or without fragrance. At Burning Flame Candle Co., we bring your dream candles to life. All our candles are meticulously handcrafted in Halifax, Nova Scotia, using eco-friendly 100% soy wax. Our candles burn clean without any phthalates or parabens, ensuring a safe and enjoyable experience. We pride ourselves on using only top-quality materials and ingredients.<\/p><p>Our fully customizable branded candles are designed from concept to production, allowing you to showcase your brand in a truly personalized way. They are perfect for a wide range of occasions, including weddings, corporate and client gifts, homes, promotional items, celebrations, party favors, memorial services, fundraising events, employee appreciation, holiday gifts, and more.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14361379799136__09a2326e-c047-444d-8dfc-62e56101eb49-column-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "accent-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "886c7c36-8add-4e0e-b454-a5ef48b5e150": {
       "type": "rich-text",
       "blocks": {
@@ -206,7 +140,7 @@
           "type": "heading",
           "settings": {
             "heading": "Friends of Burning Flame",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--14349417578592__886c7c36-8add-4e0e-b454-a5ef48b5e150-1687889322a9abf625-1": {
@@ -247,8 +181,6 @@
     "12627ce7-566b-4623-92d7-b84222e49445",
     "5a8b3bd1-4a2f-4d46-a30d-eb03da3b702b",
     "6eda6f9e-e544-4888-b33c-3204693657e5",
-    "f77eb265-a151-44f3-932c-71d8fb1946da",
-    "09a2326e-c047-444d-8dfc-62e56101eb49",
     "886c7c36-8add-4e0e-b454-a5ef48b5e150"
   ]
 }
