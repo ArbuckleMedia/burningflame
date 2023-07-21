@@ -3377,14 +3377,14 @@ details-disclosure > details {
   color: #FCFAF7 !important; 
 }
 .quantity__input {
-  border: 1px solid #865439;
+  border: 2px solid #865439;
 }
 button.quantity__button.js-qty__adjust--plus.no-js-hidden {
-  border-top: 1px solid #865439;
-  border-bottom:1px solid #865439;
+  border-top: 2px solid #865439;
+  border-bottom:2px solid #865439;
 }
 button.quantity__button.js-qty__adjust--minus.no-js-hidden {
-  border-top: 1px solid #865439;
-  border-bottom:1px solid #865439;
+  border-top: 2px solid #865439;
+  border-bottom:2px solid #865439;
 }
 /* test */
