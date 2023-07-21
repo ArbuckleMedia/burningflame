@@ -3368,22 +3368,25 @@ details-disclosure > details {
 }
 
 .js-qty__adjust--plus:hover {
-  background: #F5EEE4!important;
+  background: #C38154 !important;
 }
 .js-qty__adjust--minus:hover {
-  background: #F5EEE4!important;
+  background: #C38154 !important;
+}
+.quantity__button:hover svg {
+  color: #FCFAF7 !important; 
 }
 .quantity__input {
-  border: 2px solid #F5EEE4;
+  border: 2px solid #C38154;
 }
 button.quantity__button.js-qty__adjust--plus.no-js-hidden {
-  border-top: 2px solid #F5EEE4;
-  border-bottom:2px solid #F5EEE4;
-  border-right:2px solid #F5EEE4;
+  border-top: 2px solid #C38154;
+  border-bottom:2px solid #C38154;
+  border-right:2px solid #C38154;
 }
 button.quantity__button.js-qty__adjust--minus.no-js-hidden {
-  border-top: 2px solid #F5EEE4;
-  border-bottom:2px solid #F5EEE4;
-  border-left:2px solid #F5EEE4;
+  border-top: 2px solid #C38154;
+  border-bottom:2px solid #C38154;
+  border-left:2px solid #C38154;
 }
 /* test */
