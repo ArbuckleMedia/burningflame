@@ -3373,9 +3373,6 @@ details-disclosure > details {
 .js-qty__adjust--minus:hover {
   background: #865439 !important;
 }
-button.js-qty__adjust.js-qty__adjust--plus.quantity__button.no-js-hidden:hover svg.icon.icon-plus {
-  color: #FCFAF7 !important; 
-}
-button.js-qty__adjust.js-qty__adjust--minus.quantity__button.no-js-hidden:hover svg.icon.icon-minus {
+.quantity__button:hover svg {
   color: #FCFAF7 !important; 
 }
