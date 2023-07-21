@@ -41,6 +41,15 @@
           "settings": {
           }
         },
+        "45b858af-58ca-4fa6-9129-2d30a68a76fe": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Scent Notes",
+            "icon": "perfume",
+            "content": "",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -56,6 +65,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "45b858af-58ca-4fa6-9129-2d30a68a76fe",
         "share"
       ],
       "settings": {
