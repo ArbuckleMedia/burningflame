@@ -3373,9 +3373,6 @@ details-disclosure > details {
 .js-qty__adjust--minus:hover {
   background: #F5EEE4!important;
 }
-.quantity__button:hover svg {
-  color: #FCFAF7 !important; 
-}
 .quantity__input {
   border: 2px solid #F5EEE4;
 }
