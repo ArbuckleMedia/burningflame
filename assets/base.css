@@ -3366,4 +3366,16 @@ details-disclosure > details {
   width:100%;
 }
 }
-/* test */
+
+.js-qty__adjust--plus:hover {
+  background: #252525 !important;
+}
+.js-qty__adjust--minus:hover {
+  background: #252525 !important;
+}
+button.js-qty__adjust.js-qty__adjust--plus.quantity__button.no-js-hidden:hover svg.icon.icon-plus {
+  color: #fffef2 !important; 
+}
+button.js-qty__adjust.js-qty__adjust--minus.quantity__button.no-js-hidden:hover svg.icon.icon-minus {
+  color: #fffef2 !important; 
+}
