@@ -102,7 +102,7 @@
         "@media screen and (min-width: 990px) {.wprs_unslider {margin-right: 10%; margin-left: 10%; }}"
       ],
       "settings": {
-        "title": "Read Our Customer Reviews!",
+        "title": "What Our Customer's Are Saying",
         "titlehtmltype": "h2",
         "titlehtmlloc": "center",
         "ststtemplateid": "14322",
