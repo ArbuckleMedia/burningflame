@@ -1,7 +1,44 @@
 {
   "sections": {
+    "ea9176fa-73f4-4bf1-ad6e-e44d65105181": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14361379831904__ea9176fa-73f4-4bf1-ad6e-e44d65105181-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MoonmistIcecream.png",
+            "heading": "Moon Mist Meets Lobster",
+            "heading_size": "h0",
+            "subheading": "Nova Scotia's iconic and exclusive Moon Mist ice cream flavour can now be found in a candle, which blends the flavours of grape, banana, and bubblegum for a unique intergalactic swirl. Indulge in a bit of nostalgia before it's gone. ",
+            "button_label": "Get It Now",
+            "link": "shopify:\/\/products\/moon-mist-lobster-soy-wax-candle",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14361379831904__ea9176fa-73f4-4bf1-ad6e-e44d65105181-slide-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "c35a4820-cf5f-4c9c-8a0d-afecd0da5b00": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--14361379831904__c35a4820-cf5f-4c9c-8a0d-afecd0da5b00-heading-1": {
           "type": "heading",
@@ -359,6 +396,7 @@
     }
   },
   "order": [
+    "ea9176fa-73f4-4bf1-ad6e-e44d65105181",
     "c35a4820-cf5f-4c9c-8a0d-afecd0da5b00",
     "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b",
     "410e8784-f918-4c00-a2f8-c6b7d3efda70",
