@@ -94,7 +94,6 @@
       "type": "sts_review_slider",
       "custom_css": [
         "#wprev-slider-14322 .wprev_preview_bg1_T1 {background: transparent;}",
-        ".wprevpro_t1_DIV_2 {box-shadow: none; border: none; margin: 0;}",
         ".wprevpro_t1_DIV_2:before {display: none;}",
         "#wprev-slider-14322.wprev_preview_bg1_T1::after {display: none;}",
         "#wprev-slider-14322 .wprev_preview_tcolor1_T1 {display: grid;}",
