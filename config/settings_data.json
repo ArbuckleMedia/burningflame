@@ -119,6 +119,8 @@
     "show_cart_note": true,
     "cart_drawer_collection": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/BFCC_LOGO_a31110a7-883e-42fd-b22c-b24503fbd218.png",
+    "checkout_accent_color": "#121212",
+    "checkout_button_color": "#c38154",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
