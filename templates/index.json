@@ -99,7 +99,7 @@
         ".wprevpro_t1_DIV_2:after {display: none;}",
         "#wprev-slider-14322 .wprev_preview_tcolor1_T1 {display: grid;}",
         "img.wprevpro_t1_star_img_file {display: block !important;}",
-        "@media screen and (min-width: 990px) {.wprs_unslider {margin-right: 10%; margin-left: 10%; }}"
+        ".wprs_unslider-arrow.prev {left:0;}"
       ],
       "settings": {
         "title": "What Our Customer's Are Saying",
