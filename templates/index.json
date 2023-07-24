@@ -90,6 +90,18 @@
         "padding_bottom": 36
       }
     },
+    "410e8784-f918-4c00-a2f8-c6b7d3efda70": {
+      "type": "sts_review_slider",
+      "settings": {
+        "title": "Testimonials",
+        "titlehtmltype": "h2",
+        "titlehtmlloc": "center",
+        "ststtemplateid": "14322",
+        "margintop": 0,
+        "marginlr": 40,
+        "marginbottom": 0
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -328,6 +340,7 @@
   "order": [
     "c35a4820-cf5f-4c9c-8a0d-afecd0da5b00",
     "4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b",
+    "410e8784-f918-4c00-a2f8-c6b7d3efda70",
     "featured_collection",
     "c6fe2d87-fb98-4968-bef5-b5594a209c50",
     "fd0389a8-9469-4792-9097-e66f74d676c5",
