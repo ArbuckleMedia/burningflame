@@ -92,8 +92,17 @@
     },
     "410e8784-f918-4c00-a2f8-c6b7d3efda70": {
       "type": "sts_review_slider",
+      "custom_css": [
+        "#wprev-slider-14106 .wprev_preview_bg1_T1 {background: transparent;}",
+        ".wprevpro_t1_DIV_2 {box-shadow: none; border: none; margin: 0;}",
+        ".wprevpro_t1_DIV_2:before {display: none;}",
+        "#wprev-slider-14106 .wprev_preview_bg1_T1::after {display: none;}",
+        "#wprev-slider-14106 .wprev_preview_tcolor1_T1 {display: grid;}",
+        "img.wprevpro_t1_star_img_file {display: block !important;}",
+        "@media screen and (min-width: 990px) {.wprs_unslider {margin-right: 10%; margin-left: 10%; }}"
+      ],
       "settings": {
-        "title": "Testimonials",
+        "title": "Read Our Customer Reviews!",
         "titlehtmltype": "h2",
         "titlehtmlloc": "center",
         "ststtemplateid": "14322",
