@@ -101,7 +101,7 @@
         "img.wprevpro_t1_star_img_file {display: block !important;}",
         ".wprs_unslider-arrow.prev {left: 0;}",
         ".wprs_unslider-arrow.next {right: 0;}",
-        "@media screen and (min-width: 750px) {.wprs_unslider {margin-left: 25%; margin-right: 25%;}}"
+        "@media screen and (min-width: 750px) {.wprs_unslider {margin-left: 10%; margin-right: 10%; }}"
       ],
       "settings": {
         "title": "What Our Customer's Are Saying",
