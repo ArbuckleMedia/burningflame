@@ -45,8 +45,8 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Scent Notes",
-            "icon": "perfume",
-            "content": "",
+            "icon": "fire",
+            "content": "<p>{{ product.metafields.custom.scent_notes.value }}<\/p>",
             "page": ""
           }
         },
