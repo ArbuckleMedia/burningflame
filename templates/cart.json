@@ -31,7 +31,7 @@
     "09939567-c1b9-4cbb-8b45-2ebc9c9c7efb": {
       "type": "featured-collection",
       "custom_css": [
-        "h2, h3 {text-align: center;}"
+        "h2,h3 {text-align: center; font-size: 2vw;}"
       ],
       "settings": {
         "title": "Looking for more ideas?",
@@ -55,7 +55,7 @@
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 60,
         "padding_bottom": 36
       }
     }
