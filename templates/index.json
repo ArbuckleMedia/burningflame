@@ -25,6 +25,9 @@
       "block_order": [
         "template--14361379831904__ea9176fa-73f4-4bf1-ad6e-e44d65105181-slide-1"
       ],
+      "custom_css": [
+        ".banner__buttons, .button {width: 100%; text-transform: uppercase;}"
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
