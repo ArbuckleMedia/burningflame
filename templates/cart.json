@@ -30,6 +30,9 @@
     },
     "09939567-c1b9-4cbb-8b45-2ebc9c9c7efb": {
       "type": "featured-collection",
+      "custom_css": [
+        "h2, h3 {text-align: center;}"
+      ],
       "settings": {
         "title": "Looking for more ideas?",
         "heading_size": "h2",
