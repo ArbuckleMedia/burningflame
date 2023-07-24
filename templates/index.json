@@ -115,6 +115,9 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
       "settings": {
         "title": "Featured Creations",
         "heading_size": "h2",
@@ -187,11 +190,14 @@
         "template--14361379831904__c6fe2d87-fb98-4968-bef5-b5594a209c50-collapsible_row-3",
         "39be743a-c52b-4a2f-9c0b-c3b1c919cc52"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "caption": "",
         "heading": "Premium Handcrafted Candles",
         "heading_size": "h2",
-        "heading_alignment": "left",
+        "heading_alignment": "center",
         "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "background-2",
