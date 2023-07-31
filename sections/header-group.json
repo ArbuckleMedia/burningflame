@@ -4,12 +4,11 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "FEMALE OWNED - PROUDLY CANADIAN - HANDMADE IN HALIFAX, NOVA SCOTIA",
             "link": ""
           }
         }
@@ -18,8 +17,8 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "show_line_separator": true,
+        "color_scheme": "background-2",
+        "show_line_separator": false,
         "auto_rotate": false,
         "change_slides_speed": 5
       }
