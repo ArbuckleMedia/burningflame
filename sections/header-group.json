@@ -27,8 +27,8 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "a,li,ul,p {text-transform: uppercase; transition: delay;}",
-        "a:hover,li:hover,ul:hover,p:hover {text-transform: uppercase; transition: delay; color: #c37320;}"
+        "a,li,ul,p,summary {text-transform: uppercase; transition-duration: 0.2s;}",
+        "a:hover,li:hover,ul:hover,p:hover,summary:hover {text-transform: uppercase; transition-duration: 0.2s; color: #c37320;}"
       ],
       "settings": {
         "logo_position": "middle-left",
