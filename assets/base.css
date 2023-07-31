@@ -3342,7 +3342,7 @@ details-disclosure > details {
   color:#FCFAF7;
   border:2px solid #f7912a;
   transition-duration: 0.2s;
-
+  text-transform: uppercase;
 }
 
 .button--primary:hover {
@@ -3351,6 +3351,7 @@ details-disclosure > details {
   border:2px solid #C38154;
   transition-duration: 0.2s;
   transition-delay: 0.2s;
+  text-transform: uppercase;
 }
 
 
