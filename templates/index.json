@@ -26,7 +26,8 @@
         "template--14361379831904__ea9176fa-73f4-4bf1-ad6e-e44d65105181-slide-1"
       ],
       "custom_css": [
-        ".banner__buttons,.button {width: 100%; text-transform: uppercase;}"
+        ".banner__buttons,.button {width: 100%; text-transform: uppercase; transition-duration: 0.2s;}",
+        ".banner__buttons:hover,.button:hover {transition-duration: 0.2s;}"
       ],
       "settings": {
         "layout": "full_bleed",
