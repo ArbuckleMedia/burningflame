@@ -3338,9 +3338,9 @@ details-disclosure > details {
   font-weight:bold;
 }
 .button--primary {
-  background-color:#FCFAF7;
+  background-color:#f7912a;
   color:#FCFAF7;
-  border:2px solid #FCFAF7;
+  border:2px solid #f7912a;
   transition-duration: 0.2s;
 
 }
