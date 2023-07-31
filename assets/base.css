@@ -3347,9 +3347,10 @@ details-disclosure > details {
 
 .button--primary:hover {
   background-color: #C38154;
-  color:#C38154;
+  color:#FCFAF7;
   border:2px solid #C38154;
   transition-duration: 0.2s;
+  transition-delay: 0.2s;
 }
 
 
