@@ -8,7 +8,7 @@
         "d7bd7036-dbc9-4c49-a30f-073ebab26afc": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/burning_flame_candle_co_a086a554-9314-4c84-acbe-ce32a8aaf509.png",
+            "image": "shopify:\/\/shop_images\/burning_flame_candle_co.png",
             "image_width": 160,
             "alignment": ""
           }
@@ -41,7 +41,7 @@
         "f766bca5-2c81-4814-b24e-9fab7c861511"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "newsletter_enable": true,
         "newsletter_heading": "Stay In The Loop:",
         "enable_follow_on_shop": true,
