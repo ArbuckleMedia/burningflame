@@ -117,7 +117,7 @@
         "template--14349417480288__4a9fb612-8c07-48fd-bb6a-d5e4b2d4867b-1686312802d4d71d8a-2"
       ],
       "custom_css": [
-        ".button--primary,.button {text-transform: uppercase; width: }"
+        ".button--primary,.button {text-transform: uppercase; width: 100%;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/E_-YYgJXMAUJnZ9-1.jpg",
