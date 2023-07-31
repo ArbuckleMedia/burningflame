@@ -3338,16 +3338,21 @@ details-disclosure > details {
   font-weight:bold;
 }
 .button--primary {
-  background-color:#C38154;
+  background-color:#FCFAF7;
   color:#FCFAF7;
-  border:2px solid #C38154;
+  border:2px solid #FCFAF7;
+  transition-duration: 0.2s;
+
 }
 
 .button--primary:hover {
-  background-color: #FCFAF7;
+  background-color: #C38154;
   color:#C38154;
   border:2px solid #C38154;
+  transition-duration: 0.2s;
 }
+
+
 .button--secondary {
   background-color:#FCFAF7;
   color:#121212;
