@@ -27,7 +27,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-
+        "a, li, ul, p {text-transform: uppercase;}"
       ],
       "settings": {
         "logo_position": "middle-left",
