@@ -40,6 +40,10 @@
         "b8c32492-fdf9-4de5-9123-25a5db337013",
         "f766bca5-2c81-4814-b24e-9fab7c861511"
       ],
+      "custom_css": [
+        "a,li,ul,summary {text-transform: uppercase; transition-duration: 0.2s;}",
+        "a:hover,li:hover,ul:hover,summary:hover {text-transform: uppercase; transition-duration: 0.2s; color: #c37320;}"
+      ],
       "settings": {
         "color_scheme": "inverse",
         "newsletter_enable": true,

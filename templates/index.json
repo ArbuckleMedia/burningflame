@@ -160,7 +160,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        "h2 {text-align: center;}"
+        "h2 {text-align: center;}",
+        ".button--secondary {text-transform: uppercase; transition-duration: 0.3s;}",
+        ".button--secondary:hover {text-transform: uppercase; transition-duration: 0.3s;}"
       ],
       "settings": {
         "title": "Featured Creations",
@@ -386,6 +388,10 @@
         "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-0",
         "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-1",
         "template--14349417480288__36cff32c-8b3f-4dac-9972-5762e30cdd06-1686313265ac9279a1-2"
+      ],
+      "custom_css": [
+        ".button--primary {text-transform: uppercase; transition-duration: 0.3s;}",
+        ".button--primary:hover {text-transform: uppercase; transition-duration: 0.3s;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/small-business-interior.jpg",
