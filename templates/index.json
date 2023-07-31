@@ -144,7 +144,7 @@
         "@media screen and (min-width: 750px) {.wprs_unslider {margin-left: 10%; margin-right: 10%; }}"
       ],
       "settings": {
-        "title": "What Our Customer's Are Saying",
+        "title": "What Our Customers Are Saying",
         "titlehtmltype": "h2",
         "titlehtmlloc": "center",
         "ststtemplateid": "14322",
