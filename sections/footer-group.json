@@ -42,7 +42,8 @@
       ],
       "custom_css": [
         "a,li,ul,summary {text-transform: uppercase; transition-duration: 0.2s;}",
-        "a:hover,li:hover,ul:hover,summary:hover {text-transform: uppercase; transition-duration: 0.2s; color: #c37320;}"
+        "a:hover,li:hover,ul:hover,summary:hover {text-transform: uppercase; transition-duration: 0.2s; color: #c37320;}",
+        "h2, .footer-block__heading {color: #ffffff;}"
       ],
       "settings": {
         "color_scheme": "inverse",
